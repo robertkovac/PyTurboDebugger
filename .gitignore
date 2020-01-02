@@ -2,8 +2,12 @@
 *~
 .*.sw[op]
 *.egg-info
+*.sublime*
 dist
 build
+Scripts
+Include
+Lib
 distribute-*gz
 distribute-*egg
 setuptools-*gz
